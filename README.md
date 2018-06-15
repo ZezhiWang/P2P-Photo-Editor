@@ -15,7 +15,7 @@ make
 Run a node with id = i
 
 ```
-make runi
+make run i
 ```
 
 
